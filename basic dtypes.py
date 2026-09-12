@@ -10,5 +10,5 @@ notes to discribe the code
 """
 print(type(a))
 
-w= int(4.5)
+w= int(4.5) # casting
 print(w)

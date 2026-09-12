@@ -16,8 +16,8 @@ print(set1)
 fruit_set.remove("kiwi") #remove item
 print(fruit_set)
 
-fruit_set.remove("grape")
-print(f" remove result: {fruit_set}")
+#fruit_set.remove("grape")
+#print(f" remove result: {fruit_set}")
 
 fruit_set.discard("grape")
 print(f" discrad result {fruit_set}")# does not raise any error 
